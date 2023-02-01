@@ -668,7 +668,7 @@ section {
 }
 
 .services .icon-box h4 a:hover {
-  color: #ffc451;
+  color: var(--primary-color);
 }
 
 .services .icon-box p {
