@@ -1434,6 +1434,22 @@ section {
   color: #fff;
 }
 
+#footer .footer-top .footer-info a {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+}
+
+#footer .footer-top .footer-info a:hover {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Raleway", sans-serif;
+  color: var(--primary-color);
+}
+
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
