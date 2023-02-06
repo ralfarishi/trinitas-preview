@@ -15,7 +15,7 @@ document.getElementById("btn-contact").addEventListener("click", function () {
 $("#myDiv").venomButton({
   phone: "+6282111616226",
   chatMessage: "Halo 👋<br><br>Ada yang bisa saya bantu?",
-  showPopup: true,
+  showPopup: false,
   position: "right",
   nameClient: "PT. Trinitas Prima Sejahtera",
   headerTitle: "Business Account",
