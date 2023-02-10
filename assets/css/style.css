@@ -980,3 +980,9 @@ section {
   font-size: 10px;
   color: #fff;
 }
+
+.info-gudang span {
+  color: #ff0000;
+  font-weight: bold;
+  font-style: italic;
+}
