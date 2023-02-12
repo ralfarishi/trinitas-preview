@@ -614,15 +614,17 @@ section {
   position: relative;
 }
 
-.clients .swiper-pagination .swiper-pagination-bullet {
+.clients .swiper-pagination .swiper-pagination-bullet,
+.galleries .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #fffeee;
   opacity: 1;
   background-color: #ddd;
 }
 
-.clients .swiper-pagination .swiper-pagination-bullet-active {
+.clients .swiper-pagination .swiper-pagination-bullet-active,
+.galleries .swiper-pagination .swiper-pagination-bullet-active {
   background-color: var(--primary-color);
 }
 
