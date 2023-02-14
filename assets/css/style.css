@@ -615,8 +615,7 @@ section {
   position: relative;
 }
 
-.clients .swiper-pagination .swiper-pagination-bullet,
-.galleries .swiper-pagination .swiper-pagination-bullet {
+.clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fffeee;
