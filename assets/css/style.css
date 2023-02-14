@@ -658,7 +658,7 @@ section {
   .card-body .table {
     font-size: 14px;
   }
-  .contact .php-email-form button[type="submit"] {
+  .contact .php-email-form button[type="button"] {
     width: 100%;
   }
 }
@@ -777,7 +777,7 @@ section {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .php-email-form button[type="button"] {
   background: var(--primary-color);
   border: 0;
   padding: 10px 24px;
@@ -786,7 +786,7 @@ section {
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
+.contact .php-email-form button[type="button"]:hover {
   background: #f65d79;
 }
 
@@ -948,7 +948,7 @@ section {
   width: calc(100% - 110px);
 }
 
-#footer .footer-top .footer-newsletter form input[type="submit"] {
+#footer .footer-top .footer-newsletter form input[type="button"] {
   position: absolute;
   top: 0;
   right: -2px;
@@ -963,7 +963,7 @@ section {
   border-radius: 0 4px 4px 0;
 }
 
-#footer .footer-top .footer-newsletter form input[type="submit"]:hover {
+#footer .footer-top .footer-newsletter form input[type="button"]:hover {
   background: #f65d79;
 }
 
