@@ -221,11 +221,6 @@
   });
 
   /**
-   * Initiate Pure Counter
-   */
-  new PureCounter();
-
-  /**
    * WA Venom Button
    */
   $("#myDiv").venomButton({
