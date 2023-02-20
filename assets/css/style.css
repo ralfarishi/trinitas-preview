@@ -985,6 +985,18 @@ section {
   font-style: italic;
 }
 
+.info-gudang .card {
+  font-family: "Open Sans", sans-serif;
+}
+
+.info-gudang .card-title {
+  font-weight: bold;
+}
+
+.info-gudang th {
+  font-weight: normal;
+}
+
 .marquee {
   width: 600px;
   margin: 0 auto;
