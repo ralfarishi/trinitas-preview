@@ -473,7 +473,6 @@ h6 {
   font-weight: 700;
   margin: 10px 0 0 0;
   padding: 0;
-  line-height: 1;
   font-size: 20px;
   line-height: 26px;
 }
@@ -548,7 +547,6 @@ section {
 
 .section-title p {
   margin: 0;
-  margin: 0;
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
@@ -618,7 +616,6 @@ section {
 .clients .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fffeee;
   opacity: 1;
   background-color: #ddd;
 }
@@ -758,7 +755,6 @@ section {
 
 .contact .php-email-form input,
 .contact .php-email-form textarea {
-  border-radius: 0;
   box-shadow: none;
   font-size: 14px;
   border-radius: 4px;
@@ -954,7 +950,6 @@ section {
   right: -2px;
   bottom: 0;
   border: 0;
-  background: none;
   font-size: 16px;
   padding: 0 20px;
   background: var(--primary-color);
