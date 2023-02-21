@@ -988,6 +988,13 @@ section {
   font-weight: normal;
 }
 
+@media (max-width: 575px) {
+  .info-gudang .card {
+    width: 95%;
+    margin: auto;
+  }
+}
+
 .marquee {
   width: 600px;
   margin: 0 auto;

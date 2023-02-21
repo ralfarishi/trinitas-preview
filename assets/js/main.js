@@ -237,12 +237,17 @@
   /**
    * Info Gudang Slider
    */
-  const infoGudangSwiper = document.querySelector("swiper-container");
-  Object.assign(infoGudangSwiper, {
+  var infoGudangSwiper = new Swiper(".info-gudang-swiper", {
     slidesPerView: 1,
     spaceBetween: 10,
     pagination: {
+      el: ".swiper-pagination",
+      dynamicBullets: true,
       clickable: true,
+    },
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false,
     },
     breakpoints: {
       640: {
@@ -259,7 +264,6 @@
       },
     },
   });
-  infoGudangSwiper.initialize();
 
   /**
    * Gallery - Initiate glightbox
