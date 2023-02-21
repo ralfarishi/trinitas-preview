@@ -272,7 +272,7 @@
     selector: ".glightbox",
   });
 
-  new Swiper(".gallery-slider", {
+  var gallerySwiper = new Swiper(".gallery-slider", {
     speed: 400,
     loop: true,
     centeredSlides: true,
