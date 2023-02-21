@@ -225,13 +225,6 @@
    */
   $("#myDiv").venomButton({
     position: "right",
-    // phone: "+6282111616226",
-    // chatMessage: "Halo 👋<br><br>Ada yang bisa saya bantu?",
-    // showPopup: false,
-    // nameClient: "PT. Trinitas Prima Sejahtera",
-    // headerTitle: "Business Account",
-    // avatar: "./assets/avatar.png",
-    // message: "Apakah gudang x masih tersedia?",
   });
 
   /**
