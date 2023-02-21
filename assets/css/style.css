@@ -1002,14 +1002,14 @@ section {
 .marquee span {
   display: inline-block;
   width: max-content;
-  color: #fff;
+  color: #ececec;
   padding-left: 100%;
   /* show the marquee just outside the paragraph */
   will-change: transform;
-  animation: marquee 10s linear infinite;
+  animation: marquee 15s linear infinite;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .marquee span b {
