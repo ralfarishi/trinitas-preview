@@ -265,7 +265,7 @@
     selector: ".glightbox",
   });
 
-  var gallerySwiper = new Swiper(".gallery-slider", {
+  var gallerySwiper = new Swiper(".gallery-swiper", {
     speed: 400,
     loop: true,
     centeredSlides: true,
