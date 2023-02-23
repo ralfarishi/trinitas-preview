@@ -319,6 +319,10 @@ h6 {
     display: block;
   }
 
+  .right-side {
+    margin-left: auto;
+  }
+
   .navbar ul {
     display: none;
   }
