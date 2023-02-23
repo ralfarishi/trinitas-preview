@@ -1085,3 +1085,7 @@ section {
   backdrop-filter: blur(5px);
   background-color: rgba(31, 31, 31, 0.4);
 }
+
+.venom-button {
+  z-index: 999;
+}
