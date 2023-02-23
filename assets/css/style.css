@@ -326,6 +326,16 @@ h6 {
   .navbar ul {
     display: none;
   }
+
+  .siteplan img {
+    width: 85% !important;
+    height: auto !important;
+  }
+
+  .galleries img.galeri-main {
+    width: 90% !important;
+    height: auto !important;
+  }
 }
 
 .navbar-mobile {
