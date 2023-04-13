@@ -580,6 +580,15 @@ section {
 .about .content span {
   color: var(--secondary-color);
   font-weight: bold;
+  background-color: rgba(154, 154, 230, 0.16);
+  padding: 1px 4px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.about .content span:hover {
+  color: #eeeeee;
+  background-color: var(--secondary-color);
 }
 
 .about .content ul {
@@ -590,6 +599,19 @@ section {
 .about .content ul li {
   padding: 0 0 8px 26px;
   position: relative;
+}
+
+.about .content details summary {
+  display: inline-block;
+  transition: margin 0.5s ease-out;
+}
+
+.about .content details[open] summary {
+  margin-bottom: 10px;
+}
+
+.about .content p {
+  text-align: justify;
 }
 
 .about .content ul i {
