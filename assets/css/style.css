@@ -1020,6 +1020,10 @@ section {
   font-weight: bold;
 }
 
+.info-gudang .card-body i {
+  font-size: 20px;
+}
+
 .info-gudang th {
   font-weight: normal;
 }
